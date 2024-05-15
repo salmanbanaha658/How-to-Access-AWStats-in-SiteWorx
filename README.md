@@ -1,3 +1,5 @@
+# How to Access AWStats in SiteWorx
+
 Accessing AWStats in SiteWorx is a straightforward process that empowers website owners with valuable insights into their site's performance. AWStats is a powerful tool that provides detailed analytics on web traffic, including information on visitors, page views, keywords, and more. By accessing AWStats within SiteWorx, users can gain a deeper understanding of their website's traffic patterns, allowing them to make informed decisions to enhance their online presence.
 
 ## To access AWStats in SiteWorx, follow these simple steps:
